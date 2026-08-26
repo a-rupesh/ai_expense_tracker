@@ -1,0 +1,25 @@
+@"
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.g.dart
+
+android/.gradle/
+android/app/google-services.json
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+ios/Pods/
+ios/.symlinks/
+**/GoogleService-Info.plist
+
+lib/config/api_keys.dart
+
+*.iml
+.idea/
+.DS_Store
+"@ | Set-Content -Encoding utf8 .gitignore
