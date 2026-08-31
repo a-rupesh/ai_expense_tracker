@@ -1,17 +1,7 @@
-<<<<<<< HEAD
-# Flutter-related
+﻿# Flutter-related
 **/Flutter/ephemeral/
 **/Pods/
 
 # Xcode-related
 **/dgph
 **/xcuserdata/
-=======
-# Flutter-related
-**/Flutter/ephemeral/
-**/Pods/
-
-# Xcode-related
-**/dgph
-**/xcuserdata/
->>>>>>> 656d780915e823b4356a161e248a42e061f060ed

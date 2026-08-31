@@ -23,3 +23,5 @@ lib/config/api_keys.dart
 .idea/
 .DS_Store
 "@ | Set-Content -Encoding utf8 .gitignore
+*.hprof
+lib/config/oracleJdk-26/
